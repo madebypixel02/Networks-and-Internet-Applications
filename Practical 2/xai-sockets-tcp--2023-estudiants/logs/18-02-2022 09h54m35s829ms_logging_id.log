@@ -1,0 +1,58 @@
+18-02-2022 09:54:35:893 tcp_client [INFO] : start client http
+18-02-2022 09:54:35:896 tcp_client [INFO] : start HTTPclient.get 
+18-02-2022 09:54:35:896 tcp_client [INFO] : HTTP server_address: example.org
+18-02-2022 09:54:35:896 tcp_client [INFO] : HTTP server_port: 80
+18-02-2022 09:54:35:896 tcp_client [INFO] : HEAD / HTTP/1.0
+Accept: */*
+Host: example.org
+
+
+18-02-2022 09:54:36:038 tcp_client [INFO] : Socket created
+18-02-2022 09:54:36:040 tcp_client [INFO] : Request sent
+18-02-2022 09:54:36:156 tcp_client [TRACE] : HTTP/1.0 200 OK
+18-02-2022 09:54:36:156 tcp_client [TRACE] : Content-Encoding: gzip
+18-02-2022 09:54:36:156 tcp_client [TRACE] : Accept-Ranges: bytes
+18-02-2022 09:54:36:156 tcp_client [TRACE] : Age: 316208
+18-02-2022 09:54:36:156 tcp_client [TRACE] : Cache-Control: max-age=604800
+18-02-2022 09:54:36:156 tcp_client [TRACE] : Content-Type: text/html; charset=UTF-8
+18-02-2022 09:54:36:156 tcp_client [TRACE] : Date: Fri, 18 Feb 2022 08:54:36 GMT
+18-02-2022 09:54:36:156 tcp_client [TRACE] : Etag: "3147526947"
+18-02-2022 09:54:36:156 tcp_client [TRACE] : Expires: Fri, 25 Feb 2022 08:54:36 GMT
+18-02-2022 09:54:36:156 tcp_client [TRACE] : Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+18-02-2022 09:54:36:156 tcp_client [TRACE] : Server: ECS (mic/9A9E)
+18-02-2022 09:54:36:156 tcp_client [TRACE] : X-Cache: HIT
+18-02-2022 09:54:36:156 tcp_client [TRACE] : Content-Length: 648
+18-02-2022 09:54:36:156 tcp_client [TRACE] : Connection: close
+18-02-2022 09:54:36:156 tcp_client [TRACE] : 
+18-02-2022 09:54:36:157 tcp_client [INFO] : Response: HTTP/1.0 200 OK
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Age: 316208
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 18 Feb 2022 08:54:36 GMT
+Etag: "3147526947"
+Expires: Fri, 25 Feb 2022 08:54:36 GMT
+Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+Server: ECS (mic/9A9E)
+X-Cache: HIT
+Content-Length: 648
+Connection: close
+
+
+18-02-2022 09:54:36:157 tcp_client [INFO] : HTTP/1.0 200 OK
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Age: 316208
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 18 Feb 2022 08:54:36 GMT
+Etag: "3147526947"
+Expires: Fri, 25 Feb 2022 08:54:36 GMT
+Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+Server: ECS (mic/9A9E)
+X-Cache: HIT
+Content-Length: 648
+Connection: close
+
+

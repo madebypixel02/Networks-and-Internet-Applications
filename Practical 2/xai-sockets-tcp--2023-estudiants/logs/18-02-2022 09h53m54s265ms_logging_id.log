@@ -1,0 +1,55 @@
+18-02-2022 09:53:54:305 tcp_client [INFO] : start client http
+18-02-2022 09:53:54:308 tcp_client [INFO] : start HTTPclient.get 
+18-02-2022 09:53:54:308 tcp_client [INFO] : HTTP server_address: example.org
+18-02-2022 09:53:54:308 tcp_client [INFO] : HTTP server_port: 80
+18-02-2022 09:53:54:308 tcp_client [INFO] : HEAD /index.html HTTP/1.0
+Accept: */*
+Host: example.org
+
+
+18-02-2022 09:53:54:457 tcp_client [INFO] : Socket created
+18-02-2022 09:53:54:458 tcp_client [INFO] : Request sent
+18-02-2022 09:53:54:575 tcp_client [TRACE] : HTTP/1.0 200 OK
+18-02-2022 09:53:54:575 tcp_client [TRACE] : Accept-Ranges: bytes
+18-02-2022 09:53:54:575 tcp_client [TRACE] : Age: 37064
+18-02-2022 09:53:54:575 tcp_client [TRACE] : Cache-Control: max-age=604800
+18-02-2022 09:53:54:575 tcp_client [TRACE] : Content-Type: text/html; charset=UTF-8
+18-02-2022 09:53:54:575 tcp_client [TRACE] : Date: Fri, 18 Feb 2022 08:53:54 GMT
+18-02-2022 09:53:54:575 tcp_client [TRACE] : Etag: "3147526947"
+18-02-2022 09:53:54:575 tcp_client [TRACE] : Expires: Fri, 25 Feb 2022 08:53:54 GMT
+18-02-2022 09:53:54:575 tcp_client [TRACE] : Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+18-02-2022 09:53:54:575 tcp_client [TRACE] : Server: ECS (mic/9AF5)
+18-02-2022 09:53:54:575 tcp_client [TRACE] : X-Cache: HIT
+18-02-2022 09:53:54:575 tcp_client [TRACE] : Content-Length: 1256
+18-02-2022 09:53:54:575 tcp_client [TRACE] : Connection: close
+18-02-2022 09:53:54:575 tcp_client [TRACE] : 
+18-02-2022 09:53:54:576 tcp_client [INFO] : Response: HTTP/1.0 200 OK
+Accept-Ranges: bytes
+Age: 37064
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 18 Feb 2022 08:53:54 GMT
+Etag: "3147526947"
+Expires: Fri, 25 Feb 2022 08:53:54 GMT
+Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+Server: ECS (mic/9AF5)
+X-Cache: HIT
+Content-Length: 1256
+Connection: close
+
+
+18-02-2022 09:53:54:576 tcp_client [INFO] : HTTP/1.0 200 OK
+Accept-Ranges: bytes
+Age: 37064
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 18 Feb 2022 08:53:54 GMT
+Etag: "3147526947"
+Expires: Fri, 25 Feb 2022 08:53:54 GMT
+Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+Server: ECS (mic/9AF5)
+X-Cache: HIT
+Content-Length: 1256
+Connection: close
+
+

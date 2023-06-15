@@ -9,11 +9,11 @@
 <!-- By: aperez-b <aperez-b@uoc.edu>                     +@@@@@@@* +@@+      -->
 <!--                                                       :-==:.  -@@#      -->
 <!-- Created: 2023/03/28 12:35:14 by aperez-b                       +@@@%@   -->
-<!-- Updated: 2023/03/28 23:53:27 by aperez-b                                -->
+<!-- Updated: 2023/06/15 15:01:52 by aperez-b                                -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
-# Practical 1
+# Practical 1. Watch the network and you will find out what is going on there
 
 ## Table of Contents
 

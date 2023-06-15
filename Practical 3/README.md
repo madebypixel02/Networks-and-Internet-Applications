@@ -9,11 +9,11 @@
 <!-- By: aperez-b <aperez-b@uoc.edu>                     +@@@@@@@* +@@+      -->
 <!--                                                       :-==:.  -@@#      -->
 <!-- Created: 2023/05/20 11:10:01 by aperez-b                       +@@@%@   -->
-<!-- Updated: 2023/05/20 23:19:14 by aperez-b                                -->
+<!-- Updated: 2023/06/14 11:38:09 by aperez-b                                -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
-# Practical 3: Experimenting with continuous reproduction
+# Practical 3. Experimenting with continuous reproduction
 
 ## Table of Contents
 

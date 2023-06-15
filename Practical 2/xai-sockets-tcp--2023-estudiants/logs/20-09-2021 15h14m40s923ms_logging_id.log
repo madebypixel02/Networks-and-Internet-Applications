@@ -1,0 +1,6 @@
+20-09-2021 15:14:40:978 tcp_client [INFO] : inici client http
+20-09-2021 15:14:40:982 tcp_client [INFO] : inici HTTPclient.get 
+20-09-2021 15:14:40:982 tcp_client [INFO] : HTTP server_address: example.org
+20-09-2021 15:14:40:982 tcp_client [INFO] : HTTP server_port: 80
+20-09-2021 15:14:40:982 tcp_client [INFO] : 
+20-09-2021 15:14:40:982 tcp_client [INFO] : 

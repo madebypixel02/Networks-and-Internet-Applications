@@ -1,0 +1,32 @@
+18-02-2022 09:41:07:494 tcp_client [INFO] : start client http
+18-02-2022 09:41:07:514 tcp_client [INFO] : start HTTPclient.get 
+18-02-2022 09:41:07:514 tcp_client [INFO] : HTTP server_address: example.org
+18-02-2022 09:41:07:514 tcp_client [INFO] : HTTP server_port: 80
+18-02-2022 09:41:07:514 tcp_client [INFO] : HEAD / HTTP/1.0
+
+
+18-02-2022 09:41:07:675 tcp_client [INFO] : Socket created
+18-02-2022 09:41:07:676 tcp_client [INFO] : Request sent
+18-02-2022 09:41:07:794 tcp_client [TRACE] : HTTP/1.0 404 Not Found
+18-02-2022 09:41:07:794 tcp_client [TRACE] : Content-Type: text/html
+18-02-2022 09:41:07:794 tcp_client [TRACE] : Date: Fri, 18 Feb 2022 08:41:07 GMT
+18-02-2022 09:41:07:794 tcp_client [TRACE] : Server: ECS (mic/9A9B)
+18-02-2022 09:41:07:794 tcp_client [TRACE] : Content-Length: 345
+18-02-2022 09:41:07:794 tcp_client [TRACE] : Connection: close
+18-02-2022 09:41:07:794 tcp_client [TRACE] : 
+18-02-2022 09:41:07:794 tcp_client [INFO] : Response: HTTP/1.0 404 Not Found
+Content-Type: text/html
+Date: Fri, 18 Feb 2022 08:41:07 GMT
+Server: ECS (mic/9A9B)
+Content-Length: 345
+Connection: close
+
+
+18-02-2022 09:41:07:794 tcp_client [INFO] : HTTP/1.0 404 Not Found
+Content-Type: text/html
+Date: Fri, 18 Feb 2022 08:41:07 GMT
+Server: ECS (mic/9A9B)
+Content-Length: 345
+Connection: close
+
+

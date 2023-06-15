@@ -1,0 +1,46 @@
+12-03-2023 20:03:09:004 tcp_client [INFO] : start client http
+12-03-2023 20:03:09:055 tcp_client [INFO] : start HTTPclient.head 
+12-03-2023 20:03:09:055 tcp_client [INFO] : HTTP server_address: labxarxes.uoclabs.uoc.es
+12-03-2023 20:03:09:055 tcp_client [INFO] : HTTP server_port: 80
+12-03-2023 20:03:09:055 tcp_client [INFO] : HEAD / HTTP/1.0
+Accept: */*
+Host: example.org
+
+
+12-03-2023 20:03:09:450 tcp_client [INFO] : Socket created
+12-03-2023 20:03:09:470 tcp_client [INFO] : Request sent
+12-03-2023 20:03:09:608 tcp_client [TRACE] : HTTP/1.1 200 OK
+12-03-2023 20:03:09:608 tcp_client [TRACE] : Date: Sun, 12 Mar 2023 19:06:53 GMT
+12-03-2023 20:03:09:608 tcp_client [TRACE] : Server: Apache/2.4.52 (Ubuntu)
+12-03-2023 20:03:09:608 tcp_client [TRACE] : Last-Modified: Fri, 30 Sep 2022 16:46:23 GMT
+12-03-2023 20:03:09:608 tcp_client [TRACE] : ETag: "29af-5e9e7bbf7411e"
+12-03-2023 20:03:09:609 tcp_client [TRACE] : Accept-Ranges: bytes
+12-03-2023 20:03:09:609 tcp_client [TRACE] : Content-Length: 10671
+12-03-2023 20:03:09:609 tcp_client [TRACE] : Vary: Accept-Encoding
+12-03-2023 20:03:09:609 tcp_client [TRACE] : Connection: close
+12-03-2023 20:03:09:609 tcp_client [TRACE] : Content-Type: text/html
+12-03-2023 20:03:09:609 tcp_client [TRACE] : 
+12-03-2023 20:03:09:609 tcp_client [INFO] : Response: HTTP/1.1 200 OK
+Date: Sun, 12 Mar 2023 19:06:53 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Fri, 30 Sep 2022 16:46:23 GMT
+ETag: "29af-5e9e7bbf7411e"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+
+12-03-2023 20:03:09:609 tcp_client [INFO] : HTTP/1.1 200 OK
+Date: Sun, 12 Mar 2023 19:06:53 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Fri, 30 Sep 2022 16:46:23 GMT
+ETag: "29af-5e9e7bbf7411e"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+

@@ -1,0 +1,32 @@
+18-02-2022 09:45:17:280 tcp_client [INFO] : start client http
+18-02-2022 09:45:17:283 tcp_client [INFO] : start HTTPclient.get 
+18-02-2022 09:45:17:283 tcp_client [INFO] : HTTP server_address: example.org
+18-02-2022 09:45:17:283 tcp_client [INFO] : HTTP server_port: 80
+18-02-2022 09:45:17:283 tcp_client [INFO] : HEAD / HTTP/1.1
+
+
+18-02-2022 09:45:17:420 tcp_client [INFO] : Socket created
+18-02-2022 09:45:17:423 tcp_client [INFO] : Request sent
+18-02-2022 09:45:17:549 tcp_client [TRACE] : HTTP/1.1 400 Bad Request
+18-02-2022 09:45:17:549 tcp_client [TRACE] : Content-Type: text/html
+18-02-2022 09:45:17:549 tcp_client [TRACE] : Content-Length: 349
+18-02-2022 09:45:17:549 tcp_client [TRACE] : Connection: close
+18-02-2022 09:45:17:549 tcp_client [TRACE] : Date: Fri, 18 Feb 2022 08:45:17 GMT
+18-02-2022 09:45:17:549 tcp_client [TRACE] : Server: ECSF (mic/9B5E)
+18-02-2022 09:45:17:549 tcp_client [TRACE] : 
+18-02-2022 09:45:17:550 tcp_client [INFO] : Response: HTTP/1.1 400 Bad Request
+Content-Type: text/html
+Content-Length: 349
+Connection: close
+Date: Fri, 18 Feb 2022 08:45:17 GMT
+Server: ECSF (mic/9B5E)
+
+
+18-02-2022 09:45:17:550 tcp_client [INFO] : HTTP/1.1 400 Bad Request
+Content-Type: text/html
+Content-Length: 349
+Connection: close
+Date: Fri, 18 Feb 2022 08:45:17 GMT
+Server: ECSF (mic/9B5E)
+
+
